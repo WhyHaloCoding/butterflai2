@@ -16,7 +16,7 @@ conventions: time is `s`, years since a hemispheric cycle's 15° latitude crossi
 
 ### Student
 
-length:
+length:short
 Terminology I can already use:
 
 ### Instructions

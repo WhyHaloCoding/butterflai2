@@ -1,0 +1,18 @@
+LEDGER
+learns by: specific layman's example + supporting image
+domain: point processes | level: 3 (Week 02 prior; not yet recalibrated) | milestone: 2 reached | anchor: thinning
+deployed: intensity function, inhomogeneous Poisson process, homogeneous Poisson process
+introduced: thinning, monotonic, intensity surface, emission function, softplus, integrand, compensator, time-rescaling theorem
+priors: none
+domain: statistical inference | level: 2 | milestone: 2 reached | anchor: partial pooling
+deployed: log-likelihood, unconstrained parameterization, unbounded, expected value
+introduced: partial pooling (misused), alternating optimization, gauge freedom (misused), latent variable, iterated integral, parameter, residual, least squares, Jacobian, covariance, standard error, quadrature, maximum likelihood estimate
+priors: none
+domain: solar cycle physics | level: 2 | milestone: 2 reached | anchor: none
+deployed: buoyancy threshold, drift track, onset
+introduced: emergence rate, observation window
+priors: none
+domain: Python/NumPy programming | level: 2 | milestone: none | anchor: broadcasting
+deployed: callable
+introduced: broadcasting (misused), aligned arrays, integer-array lookup, mask, scalar, result object
+priors: none

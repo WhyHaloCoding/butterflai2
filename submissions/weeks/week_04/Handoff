@@ -1,1 +1,23 @@
-
+HANDOFF
+turns: 69
+learns by: specific layman's example + supporting image
+domain: point processes | level: 3 | milestone: 2 reached | anchor: time-rescaling theorem
+marginal intensity | claim: no | prior: none | end: deployed | "this still would not change the marginal intesnity which is measured along time"
+other deployed: intensity function, inhomogeneous Poisson process, homogeneous Poisson process
+other open: time-rescaling theorem, profile, family, thinning, intensity surface, emission function, softplus, compensator
+domain: statistical inference | level: 3 | milestone: 2 reached | anchor: metric gaming
+ablation | claim: no | prior: none | end: deployed | "I want it as another ablation then"
+leaderboard | claim: no | prior: none | end: introduced | "no quote"
+generalization | claim: no | prior: none | end: deployed | "generalziation is the idea that the score measure how well the model can make"
+overfitting | claim: no | prior: none | end: introduced | "no quote"
+metric gaming | claim: no | prior: none | end: introduced | "no quote"
+model selection | claim: no | prior: none | end: deployed | "model selection is the methodology used for picking your model"
+other deployed: redundant, log-likelihood, unconstrained parameterization, unbounded, expected value
+other open: leak, bound, interaction, shortfall, candidate, gain, paired difference, standard error, attribute, probability density, gauge freedom, partial pooling, latent variable, quadrature, maximum likelihood estimate
+domain: solar cycle physics | level: 4 | milestone: 2 reached | anchor: hemispheric asymmetry
+hemispheric asymmetry | claim: no | prior: none | end: introduced | "no quote"
+other deployed: buoyancy threshold, drift track, onset
+other open: belt, belt width, skewed profile, centroid, spread, emergence rate, observation window
+domain: Python/NumPy programming | level: 2 | milestone: none | anchor: broadcasting
+other deployed: callable
+other open: broadcasting, aligned arrays, cached, mask, scalar, result object

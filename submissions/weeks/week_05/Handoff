@@ -1,0 +1,33 @@
+
+HANDOFF
+turns: 22
+learns by: specific layman's example + supporting image
+domain: machine learning | level: 2 | milestone: 2 reached | anchor: validation set
+neural field | claim: no | prior: none | end: introduced | "no quote"
+multilayer perceptron | claim: no | prior: none | end: introduced | "no quote"
+activation function | claim: no | prior: none | end: deployed | "A network with an activation function that has no bends cannot pysically create a curve"
+tensor | claim: no | prior: none | end: introduced | "no quote"
+automatic differentiation | claim: no | prior: none | end: introduced | "section 2 talks about how they use automatic differentiation to fit all the variables"
+gradient descent | claim: no | prior: none | end: introduced | "no quote"
+Adam optimizer | claim: no | prior: none | end: introduced | "no quote"
+learning rate | claim: no | prior: none | end: introduced | "no quote"
+epoch | claim: no | prior: none | end: deployed | "an epoch is a single run of optimizing our data to have smaller weight residuals"
+initialization | claim: no | prior: none | end: introduced | "no quote"
+conditioning | claim: no | prior: none | end: introduced | "no quote"
+FiLM | claim: no | prior: none | end: introduced | "no quote"
+validation set | claim: no | prior: none | end: introduced | "no quote"
+other deployed: none
+other open: weights, bias, switch point, layer, weighted sum, output head, forward calculation, flexibility, conditioning scaler, standardize, seed, epoch budget, warm-start target
+domain: point processes | level: 3 | milestone: 3 reached | anchor: time-rescaling theorem
+other deployed: marginal intensity, intensity function, inhomogeneous Poisson process, homogeneous Poisson process
+other open: time-rescaling theorem, mesh, profile, family, thinning, intensity surface, emission function, softplus, compensator
+domain: statistical inference | level: 3 | milestone: 3 reached | anchor: overfitting
+other deployed: ablation, redundant, model selection, generalization, log-likelihood, unconstrained parameterization, unbounded, expected value
+other open: overfitting, in sample, held out, fold, metric gaming, leak, bound, interaction, shortfall, candidate, gain, paired difference, standard error, attribute, probability density, gauge freedom, partial pooling, latent variable, quadrature, maximum likelihood estimate
+domain: solar cycle physics | level: 4 | milestone: 2 reached | anchor: Waldmeier effect
+Waldmeier effect | claim: no | prior: none | end: unused | "no quote"
+other deployed: buoyancy threshold, drift track, onset
+other open: clock, drift timescale, hemispheric asymmetry, belt, belt width, skewed profile, centroid, spread, emergence rate, observation window
+domain: Python/NumPy programming | level: 2 | milestone: none | anchor: broadcasting
+other deployed: callable
+other open: broadcasting, aligned arrays, cached, mask, scalar, result object
